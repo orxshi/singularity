@@ -1,4 +1,4 @@
-# Concept Application 55 (p. 389)
+# Concept Application 56 (p. 390)
 
 from loading import ConLoad, ConMoment, UniLoad
 import numpy as np

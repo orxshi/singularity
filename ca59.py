@@ -1,4 +1,4 @@
-# Concept Application 55 (p. 389)
+# Concept Application 59 (p. 391)
 
 from loading import ConLoad, LinLoad
 import matplotlib.pyplot as plt
